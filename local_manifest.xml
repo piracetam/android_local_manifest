@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="zlaja/android_device_lge_w5" path="device/lge/w5" remote="github" revision="SlimKat" />
-  <project name="zlaja/android_device_lge_msm8610-common" path="device/lge/msm8610-common" remote="github" revision="SlimKat" />
+  <project name="zlaja/android_device_lge_w5" path="device/lge/w5" remote="github" revision="carbon" />
+  <project name="zlaja/android_device_lge_msm8610-common" path="device/lge/msm8610-common" remote="github" revision="carbon" />
   <project name="vm03/android_kernel_lge_msm8610" path="kernel/lge/msm8610" remote="github" revision="cm-11.0" />
   <project name="vm03/proprietary_vendor_lge_msm8610" path="vendor/lge/msm8610" remote="github" revision="cm-11.0" />
 </manifest>
