@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="device/lge/w5" name="zlaja/android_device_lge_w5" remote="github" revision="aosp" />
-    <project path="device/lge/msm8610-common" name="zlaja/android_device_lge_msm8610-common" remote="github" revision="aosp" />
+    <project path="device/lge/w5" name="zlaja/android_device_lge_w5" remote="github" revision="tesla" />
+    <project path="device/lge/msm8610-common" name="zlaja/android_device_lge_msm8610-common" remote="github" revision="tesla" />
     <project path="vendor/lge/w5" name="zlaja/proprietary_vendor_lge_w5" remote="github" revision="lp5.1" />
     <project path="vendor/lge/msm8610-common" name="zlaja/proprietary_vendor_lge_msm8610" remote="github" revision="lp5.1" />
     <project path="kernel/lge/msm8610" name="zlaja/android_kernel_lge_msm8610" remote="github" revision="lp5.1" />
-    <project name="zlaja/prebuilt_chromium" path="prebuilts/chromium" remote="github" revision="aosp-5.1" />
-
-<!-- Generic MSM8610 -->
-    <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8610" remote="github" revision="cm-12.1-caf-8974" />
-    <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8610" remote="github" revision="cm-12.1-caf-8974" />
-    <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8610" remote="github" revision="cm-12.1-caf-8974" />
 </manifest>
