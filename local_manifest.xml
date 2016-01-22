@@ -5,7 +5,6 @@
     <project path="vendor/lge/w55ds" name="piracetam/proprietary_vendor_lge_w55ds" remote="github" revision="lp5.1" />
     <project path="vendor/lge/msm8610-common" name="piracetam/proprietary_vendor_lge_msm8610" remote="github" revision="lp5.1" />
     <project path="kernel/lge/msm8610" name="piracetam/android_kernel_lge_msm8610" remote="github" revision="lp5.1" />
-    <project name="piracetam/prebuilt_chromium" path="prebuilts/chromium" remote="github" revision="aosp-5.1" />
 
 <!-- Generic MSM8610 -->
     <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8610" remote="github" revision="cm-12.1-caf-8974" />
